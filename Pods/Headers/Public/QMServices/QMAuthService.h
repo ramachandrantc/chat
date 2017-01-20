@@ -1,5 +1,1 @@
-XSym
-0063
-c3e8969af1210eb54b8e5dc0755ccdb9
 ../../../QMServices/QMAuthService/QMAuthService/QMAuthService.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

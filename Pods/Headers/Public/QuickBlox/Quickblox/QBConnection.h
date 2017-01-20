@@ -1,5 +1,1 @@
-XSym
-0064
-8a57f48fd0c675e1714b8b71d0ae2e48
 ../../../../QuickBlox/Quickblox.framework/Headers/QBConnection.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

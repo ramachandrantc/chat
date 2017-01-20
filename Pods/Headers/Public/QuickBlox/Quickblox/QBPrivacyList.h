@@ -1,5 +1,1 @@
-XSym
-0065
-d23273ed19e2bac45af20443464dab32
 ../../../../QuickBlox/Quickblox.framework/Headers/QBPrivacyList.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

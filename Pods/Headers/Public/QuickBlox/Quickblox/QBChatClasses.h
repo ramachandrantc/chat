@@ -1,5 +1,1 @@
-XSym
-0065
-ef25886e54d002bdb255319a966652ed
 ../../../../QuickBlox/Quickblox.framework/Headers/QBChatClasses.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,5 +1,1 @@
-XSym
-0077
-bd671d16bd16a58f57986ab32564f4bb
 ../../../../QuickBlox/Quickblox.framework/Headers/QBRequest+QBCustomObjects.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

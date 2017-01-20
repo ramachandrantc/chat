@@ -1,5 +1,1 @@
-XSym
-0079
-f222dcdd34db9100914991537a772035
 ../../../QMChatViewController/QMChatViewController/Categories/UIImage+Cropper.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

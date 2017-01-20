@@ -1,5 +1,1 @@
-XSym
-0101
-5607dd0b88245310a62eb8c3c2abfae6
 ../../../QMChatViewController/QMChatViewController/Views/CustomUI/InputToolBar/QMToolbarContentView.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

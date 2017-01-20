@@ -1,5 +1,1 @@
-XSym
-0091
-686a519a5bca787aae3d4bfc2b820eda
 ../../../QMChatViewController/QMChatViewController/QMChatDataSource/NSDate+ChatDataSource.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

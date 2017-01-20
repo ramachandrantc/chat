@@ -1,5 +1,1 @@
-XSym
-0073
-50633b1d679aa25b2348cd4c1342bece
 ../../../QMChatViewController/QMChatViewController/QMChatViewController.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,5 +1,0 @@
-XSym
-0070
-e4c57a84bf064fbaa881e658c98de7b1
-../../../QMCVDevelopment/QMChatViewController/Categories/NSString+QM.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

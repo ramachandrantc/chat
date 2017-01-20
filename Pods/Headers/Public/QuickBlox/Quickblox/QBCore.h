@@ -1,5 +1,1 @@
-XSym
-0058
-45d865bdd323d2ea080199d9481d656f
 ../../../../QuickBlox/Quickblox.framework/Headers/QBCore.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

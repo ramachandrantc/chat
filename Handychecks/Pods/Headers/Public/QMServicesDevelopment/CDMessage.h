@@ -1,5 +1,0 @@
-XSym
-0083
-ce1d607d604f7174c6cb3c5ec6ece034
-../../../QMServicesDevelopment/QMChatCache/QMChatCache/CoreData/Entries/CDMessage.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

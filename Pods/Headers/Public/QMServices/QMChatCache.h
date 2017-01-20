@@ -1,5 +1,1 @@
-XSym
-0057
-ba26d2607c3506415e62fcea374134a3
 ../../../QMServices/QMChatCache/QMChatCache/QMChatCache.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

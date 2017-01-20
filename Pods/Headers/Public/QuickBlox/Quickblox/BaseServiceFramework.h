@@ -1,5 +1,1 @@
-XSym
-0072
-01c66a895e393ae00965cd6472403eea
 ../../../../QuickBlox/Quickblox.framework/Headers/BaseServiceFramework.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

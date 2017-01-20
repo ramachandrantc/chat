@@ -1,5 +1,0 @@
-XSym
-0106
-dacd4a20ababf70a6aff54bbdb84d3ec
-../../../QMCVDevelopment/QMChatViewController/Views/CollectionView/Layout/QMChatCollectionViewFlowLayout.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

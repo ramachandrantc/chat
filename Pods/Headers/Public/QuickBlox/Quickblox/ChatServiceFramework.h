@@ -1,5 +1,1 @@
-XSym
-0072
-c328a1d8de8870a3f5114e4a861fc6c7
 ../../../../QuickBlox/Quickblox.framework/Headers/ChatServiceFramework.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

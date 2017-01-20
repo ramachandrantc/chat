@@ -1,5 +1,0 @@
-XSym
-0097
-d97a6ac77cbcf83b6f93b2d24beab197
-../../../QMCVDevelopment/QMChatViewController/Views/Cells/QMChatIncomingCell/QMChatIncomingCell.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

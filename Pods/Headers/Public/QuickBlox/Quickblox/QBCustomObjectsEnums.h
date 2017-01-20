@@ -1,5 +1,1 @@
-XSym
-0072
-b02b0ebdf6df2d248303510cda4c5a57
 ../../../../QuickBlox/Quickblox.framework/Headers/QBCustomObjectsEnums.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

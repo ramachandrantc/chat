@@ -1,5 +1,1 @@
-XSym
-0070
-8f711499b738035383b938ab22fb6019
 ../../../../QuickBlox/Quickblox.framework/Headers/QBCOFileUploadInfo.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

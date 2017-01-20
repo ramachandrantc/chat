@@ -1,5 +1,1 @@
-XSym
-0062
-cc45662cb7f04cee079d2e025e8ebd2d
 ../../../../QuickBlox/Quickblox.framework/Headers/QBSettings.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,5 +1,1 @@
-XSym
-0117
-0e4f35585ce43a38e06cec67cd1c3d66
 ../../../QMServices/QMContactListService/QMContactListService/QMContactListMemoryStorage/QMContactListMemoryStorage.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

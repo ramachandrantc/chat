@@ -1,5 +1,1 @@
-XSym
-0068
-047f9a4c412aa37126bfbf5c434eb664
 ../../../../QuickBlox/Quickblox.framework/Headers/QBLocationHeader.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

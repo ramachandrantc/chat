@@ -1,5 +1,1 @@
-XSym
-0068
-fb5853f09d7c2350e2a25b0fcded711a
 ../../../../QuickBlox/Quickblox.framework/Headers/QBChatAttachment.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

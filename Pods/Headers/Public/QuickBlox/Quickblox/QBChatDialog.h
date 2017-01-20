@@ -1,5 +1,1 @@
-XSym
-0064
-7db1db5ade9bfb84ed508138b10fdb12
 ../../../../QuickBlox/Quickblox.framework/Headers/QBChatDialog.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

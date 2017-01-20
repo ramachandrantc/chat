@@ -1,5 +1,1 @@
-XSym
-0065
-2e00f2f470093009b2f4202422717173
 ../../../../QuickBlox/Quickblox.framework/Headers/ChatDelegates.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,5 +1,0 @@
-XSym
-0074
-78d704529445fc3b9d403b96edf965cd
-../../../QMServicesDevelopment/QMChatService/QMChatService/QMChatService.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

@@ -1,5 +1,1 @@
-XSym
-0104
-c8b7b743031fa6ba405013f476a126f8
 ../../../QMChatViewController/QMChatViewController/QMChatLocationSnapshotter/QMChatLocationSnapshotter.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

@@ -1,5 +1,1 @@
-XSym
-0093
-61122691b07dc9c75c54688292856380
 ../../../QMChatViewController/QMChatViewController/Protocols/QMChatCollectionViewDataSource.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

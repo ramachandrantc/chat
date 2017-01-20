@@ -1,5 +1,1 @@
-XSym
-0050
-ad6a194e8fb5f0cfe1057f5ef546dbc7
 ../../../QMServices/QMManagers/QMServicesManager.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,5 +1,1 @@
-XSym
-0064
-b21bb2e95d5102e4817baea1f0006648
 ../../../../QuickBlox/Quickblox.framework/Headers/QBAuthHeader.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

@@ -1,5 +1,1 @@
-XSym
-0059
-3183be2e154925cc1e83b064b133d18a
 ../../../../QuickBlox/Quickblox.framework/Headers/QBError.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

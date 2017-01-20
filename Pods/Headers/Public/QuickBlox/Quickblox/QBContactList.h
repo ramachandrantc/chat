@@ -1,5 +1,1 @@
-XSym
-0065
-d922f23973d84fb3712021a82bbf75ad
 ../../../../QuickBlox/Quickblox.framework/Headers/QBContactList.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

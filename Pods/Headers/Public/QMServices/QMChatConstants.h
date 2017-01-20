@@ -1,5 +1,1 @@
-XSym
-0065
-d93698d831232996583a1522cf9dc175
 ../../../QMServices/QMChatService/QMChatService/QMChatConstants.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

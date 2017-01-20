@@ -1,5 +1,1 @@
-XSym
-0109
-a2a940f4c98474a77f47a2a501cba425
 ../../../QMChatViewController/QMChatViewController/Views/CustomUI/PlaceHolderTextView/QMPlaceHolderTextView.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

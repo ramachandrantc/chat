@@ -1,5 +1,1 @@
-XSym
-0122
-ce82538af8f9d95e8940cf54d0361821
 ../../../QMChatViewController/QMChatViewController/Views/Cells/QMChatAttachmentOutgoingCell/QMChatAttachmentOutgoingCell.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

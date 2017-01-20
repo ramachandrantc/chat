@@ -1,5 +1,1 @@
-XSym
-0062
-1eaf536e75cf58d983989966535735eb
 ../../../../QuickBlox/Quickblox.framework/Headers/QBASession.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

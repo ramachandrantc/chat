@@ -1,5 +1,1 @@
-XSym
-0071
-5b4c40723d086adfe1e6560635e17e4e
 ../../../../Crashlytics/iOS/Crashlytics.framework/Headers/Crashlytics.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

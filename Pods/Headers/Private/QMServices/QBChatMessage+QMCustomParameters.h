@@ -1,5 +1,1 @@
-XSym
-0093
-6527a483e834e3d99b7c27e187bb17d2
 ../../../QMServices/QMChatService/QMChatService/Categories/QBChatMessage+QMCustomParameters.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

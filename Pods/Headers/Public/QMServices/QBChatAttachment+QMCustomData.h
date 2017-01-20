@@ -1,5 +1,1 @@
-XSym
-0090
-6cdfa2cbf6064a98f18232ef725003b3
 ../../../QMServices/QMChatService/QMChatService/Categories/QBChatAttachment+QMCustomData.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

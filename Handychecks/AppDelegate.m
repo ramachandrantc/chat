@@ -10,6 +10,10 @@
 #import "LoginViewController.h"
 @import GoogleMaps;
 #import <Quickblox/Quickblox.h>
+#import "ServicesManager.h"
+#import "ChatViewController.h"
+#import <Fabric/Fabric.h>
+#import <Crashlytics/Crashlytics.h>
 
 @interface AppDelegate ()
 
@@ -73,6 +77,7 @@
     for (int i = 0; i < [devToken length]; i++) {
         [token appendFormat:@"%02.2hhX", data[i]];
     }
+        
     [self sendProviderDeviceToken:token]; // custom method
 }
 

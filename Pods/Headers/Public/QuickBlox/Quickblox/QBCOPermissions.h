@@ -1,5 +1,1 @@
-XSym
-0067
-4e4eab1b6d473d1b8440ab1cc6a7b529
 ../../../../QuickBlox/Quickblox.framework/Headers/QBCOPermissions.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

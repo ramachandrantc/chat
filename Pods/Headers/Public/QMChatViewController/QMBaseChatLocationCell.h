@@ -1,5 +1,1 @@
-XSym
-0106
-583bf0a4fe898d6e352e99f462ba1a37
 ../../../QMChatViewController/QMChatViewController/Views/Cells/QMChatLocationCell/QMBaseChatLocationCell.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

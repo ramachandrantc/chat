@@ -1,5 +1,1 @@
-XSym
-0094
-ed6fb3a76d78f97bc8534e2a7aa43071
 ../../../QMChatViewController/QMChatViewController/Views/CollectionView/QMChatCollectionView.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

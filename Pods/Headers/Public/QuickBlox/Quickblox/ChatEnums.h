@@ -1,5 +1,1 @@
-XSym
-0061
-f0300cc1effba38e42cb70bf12b6dc0d
 ../../../../QuickBlox/Quickblox.framework/Headers/ChatEnums.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
